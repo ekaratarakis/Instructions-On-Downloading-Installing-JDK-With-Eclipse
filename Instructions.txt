@@ -1,0 +1,2 @@
+First, we need to understand that if we want to run eclipse for Java development we need to install a JDK – Java Development Kit. 
+This step is totally necessary since there is no way to run our Java apps without a JDK. So let us examine the procedure step by step.
