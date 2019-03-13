@@ -3,4 +3,30 @@ This step is totally necessary since there is no way to run our Java apps withou
 
 1. Open your favorite browser and search on google the terms “java jdk”. Click the first of the results which will direct you to the          Download – page where you can choose, download and install the JDK you want according to your operating system. Alternatively click on    the link below :
    https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+   Don’t forget to click on the “Accept License Agreement” button in order to proceed with the download.
+   
+2. Choose the JDK you want to install according to your operating system. There is a different JDK version for Windows, Linux, Mac, etc.
+   and of course there are different versions for 32 bits or 64 bits operating systems.
+   
+3. Once your file is downloaded you need to run it and follow the installation steps in order to install the JDK in your operating system.
+   After completing the installation of the JDK we need to download and install Eclipse. So let us examine the procedure step by step.
+   
+4. Open again your favorite browser and search on google the term “eclipse”. Click the first result which will direct you to the official
+   webpage of Eclipse Foundation where you can hit the Download button and download Eclipse. Alternatively click on the link below :
+   https://www.eclipse.org/
+   
+5. Now your download will be an .exe file which is the Eclipse installer. Once this file is downloaded you need to run it as an 
+   administrator. This is pretty easy. Right click on the file and choose “Run as administrator”.
+   
+6. At the Eclipse installer window choose “Eclipse IDE for Java Developers”. You can change your installation folder or you can just leave
+   the default location. If you want to create a start menu entry and a desktop shortcut click the “Create start menu entry” and “Create 
+   Desktop Shortcut” boxes. Then click “Install”.
+   
+7. Once the installation is complete hit the launch button.
+
+8. During launching the application a dialogue window will ask you to select a directory as a workspace. You can change your workspace
+   directory or you can just leave the default directory. After that click launch.
+   
+   For more info click the link below :
+   https://www.youtube.com/watch?v=70dN5jqumAs
 
