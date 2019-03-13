@@ -27,6 +27,6 @@ This step is totally necessary since there is no way to run our Java apps withou
 8. During launching the application a dialogue window will ask you to select a directory as a workspace. You can change your workspace
    directory or you can just leave the default directory. After that click launch.
    
-   For more info click the link below :
+   For more info please click the link below :
    https://www.youtube.com/watch?v=70dN5jqumAs
 
